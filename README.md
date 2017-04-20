@@ -1,3 +1,9 @@
+************************
+This version of Fech-Search is deprecated. Please see [https://github.com/bycoffe/fech-search/](https://github.com/bycoffe/fech-search/)
+************************
+
+
+
 # Fech-Search
 
 Fech-Search is a plugin for [Fech](http://nytimes.github.io/Fech/) that adds an interface for searching for electronic filings submitted to the Federal Election Commission. Where Fech provides a way to download and parse filings, Fech-Search provides users with a way to find the filings they're interested in.
